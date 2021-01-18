@@ -1,0 +1,2 @@
+C:\Users\Ricardo\Documents\proyectos c#\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\proyectos c#\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache

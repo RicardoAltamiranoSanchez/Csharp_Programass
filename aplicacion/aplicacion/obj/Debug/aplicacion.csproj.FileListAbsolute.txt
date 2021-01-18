@@ -1,0 +1,7 @@
+C:\Users\Ricardo\Documents\proyectos c#\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\proyectos c#\aplicacion\aplicacion\obj\Debug\aplicacion.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\proyectos c#\aplicacion\aplicacion\bin\Debug\aplicacion.exe.config
+C:\Users\Ricardo\Documents\proyectos c#\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+C:\Users\Ricardo\Documents\proyectos c#\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+C:\Users\Ricardo\Documents\proyectos c#\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+C:\Users\Ricardo\Documents\proyectos c#\aplicacion\aplicacion\obj\Debug\aplicacion.pdb

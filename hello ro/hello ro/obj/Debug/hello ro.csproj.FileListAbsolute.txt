@@ -1,0 +1,7 @@
+C:\Users\Ricardo\Documents\proyectos c#\hello ro\hello ro\obj\Debug\hello ro.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\proyectos c#\hello ro\hello ro\obj\Debug\hello ro.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\proyectos c#\hello ro\hello ro\bin\Debug\hello ro.exe.config
+C:\Users\Ricardo\Documents\proyectos c#\hello ro\hello ro\bin\Debug\hello ro.exe
+C:\Users\Ricardo\Documents\proyectos c#\hello ro\hello ro\bin\Debug\hello ro.pdb
+C:\Users\Ricardo\Documents\proyectos c#\hello ro\hello ro\obj\Debug\hello ro.exe
+C:\Users\Ricardo\Documents\proyectos c#\hello ro\hello ro\obj\Debug\hello ro.pdb
